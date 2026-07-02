@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Fanesa Maku 👋
 
-<!--
-**fanesamaku-jpg/fanesamaku-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data analyst and developer building tools that turn overlooked business data into clear, actionable decisions — churn risk, sales performance, inbox intelligence, and monthly reporting.
 
-Here are some ideas to get you started:
+## 🔗 Live Projects
+- 📊 [Elara Data](https://elara-data.netlify.app) — data-driven business support services
+- 📥 [Inbox Intelligence Report](https://inbox-intelligence-report.netlify.app) — quantifying revenue risk hiding in your inbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Portfolio
+- [Data Science Portfolio](https://github.com/fanesamaku-jpg/data-science-portfolio) — churn prediction, sales performance, and business intelligence pipelines
+- [Python Portfolio](https://github.com/fanesamaku-jpg/python-portfolio) — freeCodeCamp certified projects
+
+## 📫 Get in touch
+- LinkedIn: [fanesa-maku](https://www.linkedin.com/in/fanesa-maku-7644783a9)
+- Email: fanesamaku@gmail.com
