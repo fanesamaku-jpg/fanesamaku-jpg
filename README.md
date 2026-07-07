@@ -1,6 +1,6 @@
 # Hi, I'm Fanesa Maku 👋
 
-Data analyst and developer building tools that turn overlooked business data into clear, actionable decisions — churn risk, sales performance, inbox intelligence, monthly reporting, and quantitative risk analysis.
+Data scientist and developer building tools that turn overlooked business data into clear, actionable decisions — churn risk, sales performance, inbox intelligence, monthly reporting, and quantitative risk analysis.
 
 ## 🔗 Live Projects
 - 📊 [Elara Data](https://elara-data.netlify.app) — data-driven business support services
